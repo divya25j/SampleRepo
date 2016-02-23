@@ -1,0 +1,5 @@
+projectKey=testIntelliJProject
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/testIntelliJProject
+ceTaskId=AVMNAsQbtf3YyRFD9y8w
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVMNAsQbtf3YyRFD9y8w
